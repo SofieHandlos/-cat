@@ -1,0 +1,21 @@
+{
+  "name": "Cats and Dogs App",
+  "short_name": "Animal App",
+  "description": "This app loves cats and dogs.",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d676ff",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/cat/index.html"
+}
